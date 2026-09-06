@@ -1,0 +1,1020 @@
+{
+  "TVAlvoradadoSul(Português).br": {
+    "name": "TV CIDADE VERDE 5.1",
+    "tvg_name": "TV CIDADE VERDE 5.1",
+    "aliases": [
+      "TV CIDADE VERDE",
+      "TV CIDADE VERDE 5.1",
+      "TV CIDADE VERDE 5.1 FHD",
+      "TV CIDADE VERDE 5.1 H264",
+      "TV CIDADE VERDE 5.1 H265",
+      "TV CIDADE VERDE 5.1 HD",
+      "TV CIDADE VERDE 5.1 SD"
+    ]
+  },
+  "Tvcultura.br": {
+    "name": "TV CULTURA",
+    "tvg_name": "TV CULTURA",
+    "aliases": [
+      "TV CULTURA",
+      "TV CULTURA FHD",
+      "TV CULTURA H264",
+      "TV CULTURA H265",
+      "TV CULTURA HD",
+      "TV CULTURA SD"
+    ]
+  },
+  "Tvdiarioce.br": {
+    "name": "TV DIÁRIO CE",
+    "tvg_name": "TV DIÁRIO CE",
+    "aliases": [
+      "TV DIARIO CE",
+      "TV DIÁRIO CE",
+      "TV DIÁRIO CE FHD",
+      "TV DIÁRIO CE H264",
+      "TV DIÁRIO CE H265",
+      "TV DIÁRIO CE HD",
+      "TV DIÁRIO CE SD"
+    ]
+  },
+  "Tvjustica.br": {
+    "name": "TV JUSTIÇA",
+    "tvg_name": "TV JUSTIÇA",
+    "aliases": [
+      "TV JUSTICA",
+      "TV JUSTIÇA",
+      "TV JUSTIÇA FHD",
+      "TV JUSTIÇA H264",
+      "TV JUSTIÇA H265",
+      "TV JUSTIÇA HD",
+      "TV JUSTIÇA SD"
+    ]
+  },
+  "Tvsenado.br": {
+    "name": "TV SENADO",
+    "tvg_name": "TV SENADO",
+    "aliases": [
+      "TV SENADO",
+      "TV SENADO FHD",
+      "TV SENADO H264",
+      "TV SENADO H265",
+      "TV SENADO HD",
+      "TV SENADO SD"
+    ]
+  },
+  "Bandce.br": {
+    "name": "BAND CEARÁ",
+    "tvg_name": "BAND CEARÁ",
+    "aliases": [
+      "BAND CEARA",
+      "BAND CEARÁ",
+      "BAND CEARÁ FHD",
+      "BAND CEARÁ H264",
+      "BAND CEARÁ H265",
+      "BAND CEARÁ HD",
+      "BAND CEARÁ SD"
+    ]
+  },
+  "Bandrj.br": {
+    "name": "BAND RIO",
+    "tvg_name": "BAND RIO",
+    "aliases": [
+      "BAND RIO",
+      "BAND RIO FHD",
+      "BAND RIO H264",
+      "BAND RIO H265",
+      "BAND RIO HD",
+      "BAND RIO SD"
+    ]
+  },
+  "Bandpi.br": {
+    "name": "BAND PIAUI",
+    "tvg_name": "BAND PIAUI",
+    "aliases": [
+      "BAND PIAUI",
+      "BAND PIAUI FHD",
+      "BAND PIAUI H264",
+      "BAND PIAUI H265",
+      "BAND PIAUI HD",
+      "BAND PIAUI SD"
+    ]
+  },
+  "Bandsp.br": {
+    "name": "BAND SP",
+    "tvg_name": "BAND SP",
+    "aliases": [
+      "BAND SP",
+      "BAND SP FHD",
+      "BAND SP H264",
+      "BAND SP H265",
+      "BAND SP HD",
+      "BAND SP SD"
+    ]
+  },
+  "TVAssembleiaPiaui.br": {
+    "name": "TV ASSEMBLEIA PIAUI",
+    "tvg_name": "TV ASSEMBLEIA PIAUI",
+    "aliases": [
+      "TV ASSEMBLEIA PI",
+      "TV ASSEMBLEIA PI FHD",
+      "TV ASSEMBLEIA PI H264",
+      "TV ASSEMBLEIA PI H265",
+      "TV ASSEMBLEIA PI HD",
+      "TV ASSEMBLEIA PI SD",
+      "TV ASSEMBLEIA PIAUI",
+      "TV ASSEMBLEIA PIAUI FHD",
+      "TV ASSEMBLEIA PIAUI H264",
+      "TV ASSEMBLEIA PIAUI H265",
+      "TV ASSEMBLEIA PIAUI HD",
+      "TV ASSEMBLEIA PIAUI SD"
+    ]
+  },
+  "ODiaTV.br": {
+    "name": "O DIA TV",
+    "tvg_name": "O DIA TV",
+    "aliases": [
+      "O DIA TV",
+      "O DIA TV FHD",
+      "O DIA TV H264",
+      "O DIA TV H265",
+      "O DIA TV HD",
+      "O DIA TV SD"
+    ]
+  },
+  "Bandnews.br": {
+    "name": "BANDNEWS TV",
+    "tvg_name": "BANDNEWS TV",
+    "aliases": [
+      "BANDNEWS TV",
+      "BANDNEWS TV FHD",
+      "BANDNEWS TV H264",
+      "BANDNEWS TV H265",
+      "BANDNEWS TV HD",
+      "BANDNEWS TV SD"
+    ]
+  },
+  "Bandsports.br": {
+    "name": "BANDSPORTS",
+    "tvg_name": "BANDSPORTS",
+    "aliases": [
+      "BANDSPORTS",
+      "BANDSPORTS FHD",
+      "BANDSPORTS H264",
+      "BANDSPORTS H265",
+      "BANDSPORTS HD",
+      "BANDSPORTS SD"
+    ]
+  },
+  "Cnn.br": {
+    "name": "CNN BRASIL",
+    "tvg_name": "CNN BRASIL",
+    "aliases": [
+      "CNN BRASIL",
+      "CNN BRASIL FHD",
+      "CNN BRASIL H264",
+      "CNN BRASIL H265",
+      "CNN BRASIL HD",
+      "CNN BRASIL SD"
+    ]
+  },
+  "Combate.br": {
+    "name": "COMBATER",
+    "tvg_name": "COMBATER",
+    "aliases": [
+      "COMBATER",
+      "COMBATER FHD",
+      "COMBATER H264",
+      "COMBATER H265",
+      "COMBATER HD",
+      "COMBATER SD"
+    ]
+  },
+  "Espn.br": {
+    "name": "ESPN",
+    "tvg_name": "ESPN",
+    "aliases": [
+      "ESPN",
+      "ESPN FHD",
+      "ESPN H264",
+      "ESPN H265",
+      "ESPN HD",
+      "ESPN SD"
+    ]
+  },
+  "Espn2.br": {
+    "name": "ESPN2⁺",
+    "tvg_name": "ESPN2⁺",
+    "aliases": [
+      "ESPN2",
+      "ESPN2⁺",
+      "ESPN2⁺ FHD",
+      "ESPN2⁺ H264",
+      "ESPN2⁺ H265",
+      "ESPN2⁺ HD",
+      "ESPN2⁺ SD"
+    ]
+  },
+  "Espn3.br": {
+    "name": "ESPN3⁺",
+    "tvg_name": "ESPN3⁺",
+    "aliases": [
+      "ESPN3",
+      "ESPN3⁺",
+      "ESPN3⁺ FHD",
+      "ESPN3⁺ H264",
+      "ESPN3⁺ H265",
+      "ESPN3⁺ HD",
+      "ESPN3⁺ SD"
+    ]
+  },
+  "Espn4.br": {
+    "name": "ESPN4",
+    "tvg_name": "ESPN4",
+    "aliases": [
+      "ESPN4",
+      "ESPN4 FHD",
+      "ESPN4 H264",
+      "ESPN4 H265",
+      "ESPN4 HD",
+      "ESPN4 SD"
+    ]
+  },
+  "Espn5.br": {
+    "name": "ESPN5⁺",
+    "tvg_name": "ESPN5⁺",
+    "aliases": [
+      "ESPN5",
+      "ESPN5⁺",
+      "ESPN5⁺ FHD",
+      "ESPN5⁺ H264",
+      "ESPN5⁺ H265",
+      "ESPN5⁺ HD",
+      "ESPN5⁺ SD"
+    ]
+  },
+  "Espn6.br": {
+    "name": "ESPN6",
+    "tvg_name": "ESPN6",
+    "aliases": [
+      "ESPN6",
+      "ESPN6 FHD",
+      "ESPN6 H264",
+      "ESPN6 H265",
+      "ESPN6 HD",
+      "ESPN6 SD"
+    ]
+  },
+  "Globorj.br": {
+    "name": "GLOBO RIO",
+    "tvg_name": "GLOBO RIO",
+    "aliases": [
+      "GLOBO RIO",
+      "GLOBO RIO FHD",
+      "GLOBO RIO H264",
+      "GLOBO RIO H265",
+      "GLOBO RIO HD",
+      "GLOBO RIO SD"
+    ]
+  },
+  "Globosp.br": {
+    "name": "GLOBO SP",
+    "tvg_name": "GLOBO SP",
+    "aliases": [
+      "GLOBO SP",
+      "GLOBO SP FHD",
+      "GLOBO SP H264",
+      "GLOBO SP H265",
+      "GLOBO SP HD",
+      "GLOBO SP SD"
+    ]
+  },
+  "Globonews.br": {
+    "name": "GLOBONEWS",
+    "tvg_name": "GLOBONEWS",
+    "aliases": [
+      "GLOBONEWS",
+      "GLOBONEWS FHD",
+      "GLOBONEWS H264",
+      "GLOBONEWS H265",
+      "GLOBONEWS HD",
+      "GLOBONEWS SD"
+    ]
+  },
+  "Globoplaynovelas.br": {
+    "name": "GLOBOPLAY NOVELAS",
+    "tvg_name": "GLOBOPLAY NOVELAS",
+    "aliases": [
+      "GLOBOPLAY NOVELAS",
+      "GLOBOPLAY NOVELAS FHD",
+      "GLOBOPLAY NOVELAS H264",
+      "GLOBOPLAY NOVELAS H265",
+      "GLOBOPLAY NOVELAS HD",
+      "GLOBOPLAY NOVELAS SD"
+    ]
+  },
+  "ID.br": {
+    "name": "INVESTIGAÇÃO DISCOVERY",
+    "tvg_name": "INVESTIGAÇÃO DISCOVERY",
+    "aliases": [
+      "INVESTIGACAO DISCOVERY",
+      "INVESTIGAÇÃO DISCOVERY",
+      "INVESTIGAÇÃO DISCOVERY FHD",
+      "INVESTIGAÇÃO DISCOVERY H264",
+      "INVESTIGAÇÃO DISCOVERY H265",
+      "INVESTIGAÇÃO DISCOVERY HD",
+      "INVESTIGAÇÃO DISCOVERY SD"
+    ]
+  },
+  "Jpnews.br": {
+    "name": "JP NEWS",
+    "tvg_name": "JP NEWS",
+    "aliases": [
+      "JP NEWS",
+      "JP NEWS FHD",
+      "JP NEWS H264",
+      "JP NEWS H265",
+      "JP NEWS HD",
+      "JP NEWS SD"
+    ]
+  },
+  "Multishow.br": {
+    "name": "MULTISHOW",
+    "tvg_name": "MULTISHOW",
+    "aliases": [
+      "MULTISHOW",
+      "MULTISHOW FHD",
+      "MULTISHOW H264",
+      "MULTISHOW H265",
+      "MULTISHOW HD",
+      "MULTISHOW SD"
+    ]
+  },
+  "Premiere2.br": {
+    "name": "PREMIERE 2",
+    "tvg_name": "PREMIERE 2",
+    "aliases": [
+      "PREMIERE",
+      "PREMIERE 2",
+      "PREMIERE 2 FHD",
+      "PREMIERE 2 H264",
+      "PREMIERE 2 H265",
+      "PREMIERE 2 HD",
+      "PREMIERE 2 SD"
+    ]
+  },
+  "Premiere3.br": {
+    "name": "PREMIERE 3",
+    "tvg_name": "PREMIERE 3",
+    "aliases": [
+      "PREMIERE",
+      "PREMIERE 3",
+      "PREMIERE 3 FHD",
+      "PREMIERE 3 H264",
+      "PREMIERE 3 H265",
+      "PREMIERE 3 HD",
+      "PREMIERE 3 SD"
+    ]
+  },
+  "Premiere4.br": {
+    "name": "PREMIERE 4",
+    "tvg_name": "PREMIERE 4",
+    "aliases": [
+      "PREMIERE",
+      "PREMIERE 4",
+      "PREMIERE 4 FHD",
+      "PREMIERE 4 H264",
+      "PREMIERE 4 H265",
+      "PREMIERE 4 HD",
+      "PREMIERE 4 SD"
+    ]
+  },
+  "Premiere5.br": {
+    "name": "PREMIERE 5",
+    "tvg_name": "PREMIERE 5",
+    "aliases": [
+      "PREMIERE",
+      "PREMIERE 5",
+      "PREMIERE 5 FHD",
+      "PREMIERE 5 H264",
+      "PREMIERE 5 H265",
+      "PREMIERE 5 HD",
+      "PREMIERE 5 SD"
+    ]
+  },
+  "Premiere6.br": {
+    "name": "PREMIERE 6",
+    "tvg_name": "PREMIERE 6",
+    "aliases": [
+      "PREMIERE",
+      "PREMIERE 6",
+      "PREMIERE 6 FHD",
+      "PREMIERE 6 H264",
+      "PREMIERE 6 H265",
+      "PREMIERE 6 HD",
+      "PREMIERE 6 SD"
+    ]
+  },
+  "Premiere7.br": {
+    "name": "PREMIERE 7",
+    "tvg_name": "PREMIERE 7",
+    "aliases": [
+      "PREMIERE",
+      "PREMIERE 7",
+      "PREMIERE 7 FHD",
+      "PREMIERE 7 H264",
+      "PREMIERE 7 H265",
+      "PREMIERE 7 HD",
+      "PREMIERE 7 SD"
+    ]
+  },
+  "Premiereclubes.br": {
+    "name": "PREMIERE CLUBES",
+    "tvg_name": "PREMIERE CLUBES",
+    "aliases": [
+      "PREMIERE CLUBES",
+      "PREMIERE CLUBES FHD",
+      "PREMIERE CLUBES H264",
+      "PREMIERE CLUBES H265",
+      "PREMIERE CLUBES HD",
+      "PREMIERE CLUBES SD"
+    ]
+  },
+  "Recordnews.br": {
+    "name": "RECORD NEWS",
+    "tvg_name": "RECORD NEWS",
+    "aliases": [
+      "RECORD NEWS",
+      "RECORD NEWS FHD",
+      "RECORD NEWS H264",
+      "RECORD NEWS H265",
+      "RECORD NEWS HD",
+      "RECORD NEWS SD"
+    ]
+  },
+  "Recordrj.br": {
+    "name": "RECORD RIO",
+    "tvg_name": "RECORD RIO",
+    "aliases": [
+      "RECORD RIO",
+      "RECORD RIO FHD",
+      "RECORD RIO H264",
+      "RECORD RIO H265",
+      "RECORD RIO HD",
+      "RECORD RIO SD"
+    ]
+  },
+  "Recordsp.br": {
+    "name": "RECORD SP",
+    "tvg_name": "RECORD SP",
+    "aliases": [
+      "RECORD SP",
+      "RECORD SP FHD",
+      "RECORD SP H264",
+      "RECORD SP H265",
+      "RECORD SP HD",
+      "RECORD SP SD"
+    ]
+  },
+  "": {
+    "name": "SPORTV",
+    "tvg_name": "SPORTV",
+    "aliases": [
+      "SPORTV",
+      "SPORTV FHD",
+      "SPORTV H264",
+      "SPORTV H265",
+      "SPORTV HD",
+      "SPORTV SD"
+    ]
+  },
+  "Sbtsp.br": {
+    "name": "SBT SP",
+    "tvg_name": "SBT SP",
+    "aliases": [
+      "SBT SP",
+      "SBT SP FHD",
+      "SBT SP H264",
+      "SBT SP H265",
+      "SBT SP HD",
+      "SBT SP SD"
+    ]
+  },
+  "Space.br": {
+    "name": "[LEG] SPACE",
+    "tvg_name": "[LEG] SPACE",
+    "aliases": [
+      "LEG SPACE",
+      "[LEG] SPACE",
+      "[LEG] SPACE FHD",
+      "[LEG] SPACE H264",
+      "[LEG] SPACE H265",
+      "[LEG] SPACE HD",
+      "[LEG] SPACE SD"
+    ]
+  },
+  "Sportv2.br": {
+    "name": "SPORTV 2",
+    "tvg_name": "SPORTV 2",
+    "aliases": [
+      "SPORTV",
+      "SPORTV 2",
+      "SPORTV 2 FHD",
+      "SPORTV 2 H264",
+      "SPORTV 2 H265",
+      "SPORTV 2 HD",
+      "SPORTV 2 SD"
+    ]
+  },
+  "Sportv3.br": {
+    "name": "SPORTV 3",
+    "tvg_name": "SPORTV 3",
+    "aliases": [
+      "SPORTV",
+      "SPORTV 3",
+      "SPORTV 3 FHD",
+      "SPORTV 3 H264",
+      "SPORTV 3 H265",
+      "SPORTV 3 HD",
+      "SPORTV 3 SD"
+    ]
+  },
+  "Sportv.br": {
+    "name": "SPORTV",
+    "tvg_name": "SPORTV",
+    "aliases": [
+      "SPORTV",
+      "SPORTV FHD",
+      "SPORTV H264",
+      "SPORTV H265",
+      "SPORTV HD",
+      "SPORTV SD"
+    ]
+  },
+  "Tntnovelas.br": {
+    "name": "TNT NOVELAS",
+    "tvg_name": "TNT NOVELAS",
+    "aliases": [
+      "TNT NOVELAS",
+      "TNT NOVELAS FHD",
+      "TNT NOVELAS H264",
+      "TNT NOVELAS H265",
+      "TNT NOVELAS HD",
+      "TNT NOVELAS SD"
+    ]
+  },
+  "Tnt.br": {
+    "name": "[LEG] TNT",
+    "tvg_name": "[LEG] TNT",
+    "aliases": [
+      "LEG TNT",
+      "[LEG] TNT",
+      "[LEG] TNT FHD",
+      "[LEG] TNT H264",
+      "[LEG] TNT H265",
+      "[LEG] TNT HD",
+      "[LEG] TNT SD"
+    ]
+  },
+  "Tvtribunasp.br": {
+    "name": "TV TRIBUNA",
+    "tvg_name": "TV TRIBUNA",
+    "aliases": [
+      "TV TRIBUNA",
+      "TV TRIBUNA FHD",
+      "TV TRIBUNA H264",
+      "TV TRIBUNA H265",
+      "TV TRIBUNA HD",
+      "TV TRIBUNA SD"
+    ]
+  },
+  "Tvvanguarda.br": {
+    "name": "TV VANGUARDA S. J. DOS CAMPOS",
+    "tvg_name": "TV VANGUARDA S. J. DOS CAMPOS",
+    "aliases": [
+      "TV VANGUARDA S J DOS CAMPOS",
+      "TV VANGUARDA S. J. DOS CAMPOS",
+      "TV VANGUARDA S. J. DOS CAMPOS FHD",
+      "TV VANGUARDA S. J. DOS CAMPOS H264",
+      "TV VANGUARDA S. J. DOS CAMPOS H265",
+      "TV VANGUARDA S. J. DOS CAMPOS HD",
+      "TV VANGUARDA S. J. DOS CAMPOS SD"
+    ]
+  },
+  "Globoce.br": {
+    "name": "TV VERDES MARES",
+    "tvg_name": "TV VERDES MARES",
+    "aliases": [
+      "TV VERDES MARES",
+      "TV VERDES MARES FHD",
+      "TV VERDES MARES H264",
+      "TV VERDES MARES H265",
+      "TV VERDES MARES HD",
+      "TV VERDES MARES SD"
+    ]
+  },
+  "Discovery.br": {
+    "name": "DISCOVERY CHANNEL",
+    "tvg_name": "DISCOVERY CHANNEL",
+    "aliases": [
+      "DISCOVERY CHANNEL",
+      "DISCOVERY CHANNEL FHD",
+      "DISCOVERY CHANNEL H264",
+      "DISCOVERY CHANNEL H265",
+      "DISCOVERY CHANNEL HD",
+      "DISCOVERY CHANNEL SD"
+    ]
+  },
+  "Id.br": {
+    "name": "INVESTIGAÇÃO DISCOVERY",
+    "tvg_name": "INVESTIGAÇÃO DISCOVERY",
+    "aliases": [
+      "INVESTIGACAO DISCOVERY",
+      "INVESTIGAÇÃO DISCOVERY",
+      "INVESTIGAÇÃO DISCOVERY FHD",
+      "INVESTIGAÇÃO DISCOVERY H264",
+      "INVESTIGAÇÃO DISCOVERY H265",
+      "INVESTIGAÇÃO DISCOVERY HD",
+      "INVESTIGAÇÃO DISCOVERY SD"
+    ]
+  },
+  "Getv.br": {
+    "name": "GE TV+",
+    "tvg_name": "GE TV+",
+    "aliases": [
+      "GE TV",
+      "GE TV+",
+      "GE TV+ FHD",
+      "GE TV+ H264",
+      "GE TV+ H265",
+      "GE TV+ HD",
+      "GE TV+ SD"
+    ]
+  },
+  "Nsports.br": {
+    "name": "NSPORTS",
+    "tvg_name": "NSPORTS",
+    "aliases": [
+      "NSPORTS",
+      "NSPORTS FHD",
+      "NSPORTS H264",
+      "NSPORTS H265",
+      "NSPORTS HD",
+      "NSPORTS SD"
+    ]
+  },
+  "Paramountplus1.br": {
+    "name": "PARAMOUNT+ 1+",
+    "tvg_name": "PARAMOUNT+ 1+",
+    "aliases": [
+      "PARAMOUNT",
+      "PARAMOUNT+ 1+",
+      "PARAMOUNT+ 1+ FHD",
+      "PARAMOUNT+ 1+ H264",
+      "PARAMOUNT+ 1+ H265",
+      "PARAMOUNT+ 1+ HD",
+      "PARAMOUNT+ 1+ SD"
+    ]
+  },
+  "Paramountplus2.br": {
+    "name": "PARAMOUNT+ 2+",
+    "tvg_name": "PARAMOUNT+ 2+",
+    "aliases": [
+      "PARAMOUNT",
+      "PARAMOUNT+ 2+",
+      "PARAMOUNT+ 2+ FHD",
+      "PARAMOUNT+ 2+ H264",
+      "PARAMOUNT+ 2+ H265",
+      "PARAMOUNT+ 2+ HD",
+      "PARAMOUNT+ 2+ SD"
+    ]
+  },
+  "Paramountplus3.br": {
+    "name": "PARAMOUNT+ 3+",
+    "tvg_name": "PARAMOUNT+ 3+",
+    "aliases": [
+      "PARAMOUNT",
+      "PARAMOUNT+ 3+",
+      "PARAMOUNT+ 3+ FHD",
+      "PARAMOUNT+ 3+ H264",
+      "PARAMOUNT+ 3+ H265",
+      "PARAMOUNT+ 3+ HD",
+      "PARAMOUNT+ 3+ SD"
+    ]
+  },
+  "Paramountplus4.br": {
+    "name": "PARAMOUNT+ 4+",
+    "tvg_name": "PARAMOUNT+ 4+",
+    "aliases": [
+      "PARAMOUNT",
+      "PARAMOUNT+ 4+",
+      "PARAMOUNT+ 4+ FHD",
+      "PARAMOUNT+ 4+ H264",
+      "PARAMOUNT+ 4+ H265",
+      "PARAMOUNT+ 4+ HD",
+      "PARAMOUNT+ 4+ SD"
+    ]
+  },
+  "Xsports.br": {
+    "name": "XSPORTS",
+    "tvg_name": "XSPORTS",
+    "aliases": [
+      "XSPORTS",
+      "XSPORTS FHD",
+      "XSPORTS H264",
+      "XSPORTS H265",
+      "XSPORTS HD",
+      "XSPORTS SD"
+    ]
+  },
+  "Copadobrasil.br": {
+    "name": "COPA DO BRASIL 04",
+    "tvg_name": "COPA DO BRASIL 04",
+    "aliases": [
+      "COPA DO BRASIL",
+      "COPA DO BRASIL 04",
+      "COPA DO BRASIL 04 FHD",
+      "COPA DO BRASIL 04 H264",
+      "COPA DO BRASIL 04 H265",
+      "COPA DO BRASIL 04 HD",
+      "COPA DO BRASIL 04 SD"
+    ]
+  },
+  "Sportynet.br": {
+    "name": "SPORTYNET+",
+    "tvg_name": "SPORTYNET+",
+    "aliases": [
+      "SPORTYNET",
+      "SPORTYNET+",
+      "SPORTYNET+ FHD",
+      "SPORTYNET+ H264",
+      "SPORTYNET+ H265",
+      "SPORTYNET+ HD",
+      "SPORTYNET+ SD"
+    ]
+  },
+  "Sportynetplus1.br": {
+    "name": "SPORTYNET+ 1+",
+    "tvg_name": "SPORTYNET+ 1+",
+    "aliases": [
+      "SPORTYNET",
+      "SPORTYNET+ 1+",
+      "SPORTYNET+ 1+ FHD",
+      "SPORTYNET+ 1+ H264",
+      "SPORTYNET+ 1+ H265",
+      "SPORTYNET+ 1+ HD",
+      "SPORTYNET+ 1+ SD"
+    ]
+  },
+  "Sportynetplus2.br": {
+    "name": "SPORTYNET+ 2+",
+    "tvg_name": "SPORTYNET+ 2+",
+    "aliases": [
+      "SPORTYNET",
+      "SPORTYNET+ 2+",
+      "SPORTYNET+ 2+ FHD",
+      "SPORTYNET+ 2+ H264",
+      "SPORTYNET+ 2+ H265",
+      "SPORTYNET+ 2+ HD",
+      "SPORTYNET+ 2+ SD"
+    ]
+  },
+  "Sportynetplus3.br": {
+    "name": "SPORTYNET+ 3+",
+    "tvg_name": "SPORTYNET+ 3+",
+    "aliases": [
+      "SPORTYNET",
+      "SPORTYNET+ 3+",
+      "SPORTYNET+ 3+ FHD",
+      "SPORTYNET+ 3+ H264",
+      "SPORTYNET+ 3+ H265",
+      "SPORTYNET+ 3+ HD",
+      "SPORTYNET+ 3+ SD"
+    ]
+  },
+  "Primevideo.br": {
+    "name": "PRIME VIDEO 3",
+    "tvg_name": "PRIME VIDEO 3",
+    "aliases": [
+      "PRIME VIDEO",
+      "PRIME VIDEO 3",
+      "PRIME VIDEO 3 FHD",
+      "PRIME VIDEO 3 H264",
+      "PRIME VIDEO 3 H265",
+      "PRIME VIDEO 3 HD",
+      "PRIME VIDEO 3 SD"
+    ]
+  },
+  "Appletvplus.br": {
+    "name": "APPLE TV+",
+    "tvg_name": "APPLE TV+",
+    "aliases": [
+      "APPLE TV",
+      "APPLE TV+",
+      "APPLE TV+ FHD",
+      "APPLE TV+ H264",
+      "APPLE TV+ H265",
+      "APPLE TV+ HD",
+      "APPLE TV+ SD"
+    ]
+  },
+  "Futebolpaulista.br": {
+    "name": "FUTEBOL PAULISTA 1",
+    "tvg_name": "FUTEBOL PAULISTA 1",
+    "aliases": [
+      "FUTEBOL PAULISTA",
+      "FUTEBOL PAULISTA 1",
+      "FUTEBOL PAULISTA 1 FHD",
+      "FUTEBOL PAULISTA 1 H264",
+      "FUTEBOL PAULISTA 1 H265",
+      "FUTEBOL PAULISTA 1 HD",
+      "FUTEBOL PAULISTA 1 SD"
+    ]
+  },
+  "Cazetv.br": {
+    "name": "CAZETV 1",
+    "tvg_name": "CAZETV 1",
+    "aliases": [
+      "CAZETV",
+      "CAZETV 1",
+      "CAZETV 1 FHD",
+      "CAZETV 1 H264",
+      "CAZETV 1 H265",
+      "CAZETV 1 HD",
+      "CAZETV 1 SD"
+    ]
+  },
+  "Cancaonova.br": {
+    "name": "CANCAO NOVA",
+    "tvg_name": "CANCAO NOVA",
+    "aliases": [
+      "CANCAO NOVA",
+      "CANCAO NOVA FHD",
+      "CANCAO NOVA H264",
+      "CANCAO NOVA H265",
+      "CANCAO NOVA HD",
+      "CANCAO NOVA SD"
+    ]
+  },
+  "Globopi.br": {
+    "name": "TV CLUBE",
+    "tvg_name": "TV CLUBE",
+    "aliases": [
+      "TV CLUBE",
+      "TV CLUBE FHD",
+      "TV CLUBE H264",
+      "TV CLUBE H265",
+      "TV CLUBE HD",
+      "TV CLUBE SD"
+    ]
+  },
+  "Globoma.br": {
+    "name": "TV MIRANTE SÃO LUÍS",
+    "tvg_name": "TV MIRANTE SÃO LUÍS",
+    "aliases": [
+      "TV MIRANTE SAO LUIS",
+      "TV MIRANTE SÃO LUÍS",
+      "TV MIRANTE SÃO LUÍS FHD",
+      "TV MIRANTE SÃO LUÍS H264",
+      "TV MIRANTE SÃO LUÍS H265",
+      "TV MIRANTE SÃO LUÍS HD",
+      "TV MIRANTE SÃO LUÍS SD"
+    ]
+  },
+  "Globo.br": {
+    "name": "GLOBO NACIONAL",
+    "tvg_name": "GLOBO NACIONAL",
+    "aliases": [
+      "GLOBO NACIONAL",
+      "GLOBO NACIONAL FHD",
+      "GLOBO NACIONAL H264",
+      "GLOBO NACIONAL H265",
+      "GLOBO NACIONAL HD",
+      "GLOBO NACIONAL SD"
+    ]
+  },
+  "Tvdiariosp.br": {
+    "name": "TV DIÁRIO",
+    "tvg_name": "TV DIÁRIO",
+    "aliases": [
+      "TV DIARIO",
+      "TV DIÁRIO",
+      "TV DIÁRIO FHD",
+      "TV DIÁRIO H264",
+      "TV DIÁRIO H265",
+      "TV DIÁRIO HD",
+      "TV DIÁRIO SD"
+    ]
+  },
+  "Cnnmoney.br": {
+    "name": "CNN MONEY",
+    "tvg_name": "CNN MONEY",
+    "aliases": [
+      "CNN MONEY",
+      "CNN MONEY FHD",
+      "CNN MONEY H264",
+      "CNN MONEY H265",
+      "CNN MONEY HD",
+      "CNN MONEY SD"
+    ]
+  },
+  "RecordNews.pt": {
+    "name": "RECORD NEWS INTERNACIONAL",
+    "tvg_name": "RECORD NEWS INTERNACIONAL",
+    "aliases": [
+      "RECORD NEWS INTERNACIONAL",
+      "RECORD NEWS INTERNACIONAL FHD",
+      "RECORD NEWS INTERNACIONAL H264",
+      "RECORD NEWS INTERNACIONAL H265",
+      "RECORD NEWS INTERNACIONAL HD",
+      "RECORD NEWS INTERNACIONAL SD"
+    ]
+  },
+  "Premiere8.br": {
+    "name": "PREMIERE 8 - MOSAICO⁺",
+    "tvg_name": "PREMIERE 8 - MOSAICO⁺",
+    "aliases": [
+      "PREMIERE 8 - MOSAICO⁺",
+      "PREMIERE 8 - MOSAICO⁺ FHD",
+      "PREMIERE 8 - MOSAICO⁺ H264",
+      "PREMIERE 8 - MOSAICO⁺ H265",
+      "PREMIERE 8 - MOSAICO⁺ HD",
+      "PREMIERE 8 - MOSAICO⁺ SD",
+      "PREMIERE MOSAICO"
+    ]
+  },
+  "Recordpi.br": {
+    "name": "TV ANTENA 10",
+    "tvg_name": "TV ANTENA 10",
+    "aliases": [
+      "TV ANTENA",
+      "TV ANTENA 10",
+      "TV ANTENA 10 FHD",
+      "TV ANTENA 10 H264",
+      "TV ANTENA 10 H265",
+      "TV ANTENA 10 HD",
+      "TV ANTENA 10 SD"
+    ]
+  },
+  "Sbtdf.br": {
+    "name": "SBT BRASILIA",
+    "tvg_name": "SBT BRASILIA",
+    "aliases": [
+      "SBT BRASILIA",
+      "SBT BRASILIA FHD",
+      "SBT BRASILIA H264",
+      "SBT BRASILIA H265",
+      "SBT BRASILIA HD",
+      "SBT BRASILIA SD"
+    ]
+  },
+  "Sbtrj.br": {
+    "name": "SBT RIO",
+    "tvg_name": "SBT RIO",
+    "aliases": [
+      "SBT RIO",
+      "SBT RIO FHD",
+      "SBT RIO H264",
+      "SBT RIO H265",
+      "SBT RIO HD",
+      "SBT RIO SD"
+    ]
+  },
+  "Sbtpi.br": {
+    "name": "TV CIDADE VERDE PICOS+",
+    "tvg_name": "TV CIDADE VERDE PICOS+",
+    "aliases": [
+      "TV CIDADE VERDE PICOS",
+      "TV CIDADE VERDE PICOS+",
+      "TV CIDADE VERDE PICOS+ FHD",
+      "TV CIDADE VERDE PICOS+ H264",
+      "TV CIDADE VERDE PICOS+ H265",
+      "TV CIDADE VERDE PICOS+ HD",
+      "TV CIDADE VERDE PICOS+ SD"
+    ]
+  },
+  "Sportv4.br": {
+    "name": "SPORTV 4",
+    "tvg_name": "SPORTV 4",
+    "aliases": [
+      "SPORTV",
+      "SPORTV 4",
+      "SPORTV 4 FHD",
+      "SPORTV 4 H264",
+      "SPORTV 4 H265",
+      "SPORTV 4 HD",
+      "SPORTV 4 SD"
+    ]
+  },
+  "Canaluol.br": {
+    "name": "CANAL UOL",
+    "tvg_name": "CANAL UOL",
+    "aliases": [
+      "CANAL UOL",
+      "CANAL UOL FHD",
+      "CANAL UOL H264",
+      "CANAL UOL H265",
+      "CANAL UOL HD",
+      "CANAL UOL SD"
+    ]
+  }
+}
