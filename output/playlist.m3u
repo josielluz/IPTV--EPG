@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/josielluz/IPTV--EPG/refs/heads/main/output/epg.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="TVCidadeVerdePiaui.br" tvg-name="TV CIDADE VERDE" tvg-logo="https://cidadeverde.com/assets/images/cvplay/tv-canal-51-min.png" group-title="Brasil",TV CIDADE VERDE
 https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w320028308.m3u8
 #EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV DIÁRIO" tvg-logo="https://googleplusimages.com/TVDIARIO.png" group-title="Brasil",TV DIÁRIO
